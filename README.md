@@ -31,6 +31,10 @@ O projeto está estruturado da seguinte forma:
 
 - Certifique-se de que o conjunto de dados está corretamente baixado e acessível em seu ambiente. O caminho para os dados pode precisar ser ajustado dependendo do seu sistema de arquivos.
 
+## Downloads
+
+- [Conjunto de Dados Pré-processado (FER_2013)](https://drive.google.com/file/d/1BAPtXM3Inac5GgoYGQuUdz58u-oY3_MI/view?usp=drive_link)
+  - Arquivo contendo pixels das imagens, labels e informações de treino/teste.
 ### Treinamento
 
 1. Execute o notebook `train_model.ipynb` no Google Colab ou qualquer ambiente Python com suporte ao TensorFlow.
